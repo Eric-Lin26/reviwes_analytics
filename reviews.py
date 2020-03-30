@@ -19,12 +19,3 @@ for avg in data:
     sum_len += len(avg)
     
 print("留言平均長度為：", sum_len / len(data))
-
-        
-
-# a = 'dsfjdsflksdj'
-# b = "dlikfljdslkfjsdlk"
-
-# avg = len(a) + len(b) / 2
-
-# print(avg)
